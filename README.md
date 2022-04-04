@@ -1,14 +1,14 @@
 # DQOR
-Code for Medical Image Grading with Deep Quantum Ordinal Regression
+Grading Diabetic Retinopathy and Prostate Cancer Diagnostic Images with Deep Quantum Ordinal Regression
 
 ![dqor](https://github.com/stoledoc/Resources/blob/master/dqor/dqor_model.png)
 
 Implementation of Deep Quantum Ordinal Regressor
 
-* Santiago Toledo-Cortés, Diego H. Useche, Henning Müller, and Fabio A. González."
+* Santiago Toledo-Cortés, Diego H. Useche, Henning Müller, and Fabio A. González.
 ## Abstract
 
-Although for many diseases there is a progressive diagnosis scale, automatic analysis of medical images is quite often addressed as a categorical or even binary classification problem, missing the finer distinction and intrinsic relation between the different possible stages or grades. Ordinal regression (or classification) considers the order of the values of the categorical label and thus takes into account the order of grading scales used to asses the severity of different medical conditions. This paper presents a probabilistic deep learning ordinal regression model for medical image classification that takes advantage of the representational power of deep learning and of the intrinsic ordinal information of disease stages by means of a differentiable probabilistic regression method. The method is evaluated on two different medical image grade prediction tasks: prostate cancer diagnosis and diabetic retinopathy grade estimation on eye fundus images. The experimental results shows that the new method not only improves the accuracy on the two tasks, but also the interpretability of the results by means of a prediction uncertainty quantification, when compared to conventional deep classification and regression architectures.
+Although for many diseases there is a progressive diagnosis scale, automatic analysis of grade-based medical images is quite often addressed as a binary classification problem, missing the finer distinction and intrinsic relation between the different possible stages or grades. Ordinal regression (or classification) considers the order of the values of the categorical labels and thus takes into account the order of grading scales used to assess the severity of different medical conditions. This paper presents a quantum-inspired deep probabilistic learning ordinal regression model for medical image diagnosis that takes advantage of the representational power of deep learning and the intrinsic ordinal information of disease stages. The method is evaluated on two different medical image analysis tasks: prostate cancer diagnosis and diabetic retinopathy grade estimation on eye fundus images. The experimental results show that the proposed method not only improves the diagnosis performance on the two tasks but also the interpretability of the results by quantifying the uncertainty of the predictions in comparison to conventional deep classification and regression architectures.
 
 ## Requirements
 
