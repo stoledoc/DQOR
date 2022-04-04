@@ -1,5 +1,4 @@
-# DQOR
-Grading Diabetic Retinopathy and Prostate Cancer Diagnostic Images with Deep Quantum Ordinal Regression
+# Grading Diabetic Retinopathy and Prostate Cancer Diagnostic Images with Deep Quantum Ordinal Regression
 
 ![dqor](https://github.com/stoledoc/Resources/blob/master/dqor/dqor_model.png)
 
