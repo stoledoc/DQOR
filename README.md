@@ -4,7 +4,7 @@
 
 Implementation of Deep Quantum Ordinal Regressor
 
-* Santiago Toledo-Cortés, Diego H. Useche, Henning Müller, and Fabio A. González.
+* Toledo-Cortés S., Useche D.H., Müller H., González F.A. (2022). Grading Diabetic Retinopathy and Prostate Cancer Diagnostic Images with Deep Quantum Ordinal Regression. Computers in Biology and Medicine. Elsevier. https://doi.org/10.1016/j.compbiomed.2022.105472
 ## Abstract
 
 Although for many diseases there is a progressive diagnosis scale, automatic analysis of grade-based medical images is quite often addressed as a binary classification problem, missing the finer distinction and intrinsic relation between the different possible stages or grades. Ordinal regression (or classification) considers the order of the values of the categorical labels and thus takes into account the order of grading scales used to assess the severity of different medical conditions. This paper presents a quantum-inspired deep probabilistic learning ordinal regression model for medical image diagnosis that takes advantage of the representational power of deep learning and the intrinsic ordinal information of disease stages. The method is evaluated on two different medical image analysis tasks: prostate cancer diagnosis and diabetic retinopathy grade estimation on eye fundus images. The experimental results show that the proposed method not only improves the diagnosis performance on the two tasks but also the interpretability of the results by quantifying the uncertainty of the predictions in comparison to conventional deep classification and regression architectures.
